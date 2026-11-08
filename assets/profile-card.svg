@@ -7,9 +7,9 @@
 <text x="110" y="135" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="15" font-weight="400" fill="#7aa2f7">Total Contributions</text>
 <text x="110" y="157" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#2ac3a2">Nov 4 - Present</text>
 <circle cx="310" cy="75" r="36" fill="none" stroke="#7aa2f7" stroke-width="6"/>
-<text x="310" y="86" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="30" font-weight="700" fill="#bb9af7">3</text>
+<text x="310" y="86" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="30" font-weight="700" fill="#bb9af7">0</text>
 <text x="310" y="135" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="15" font-weight="700" fill="#bb9af7">Current Streak</text>
-<text x="310" y="157" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#2ac3a2">Nov 4 - Nov 6</text>
+<text x="310" y="157" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#2ac3a2">No active streak</text>
 <text x="510" y="86" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="34" font-weight="700" fill="#7aa2f7">3</text>
 <text x="510" y="135" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="15" font-weight="400" fill="#7aa2f7">Longest Streak</text>
 <text x="510" y="157" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#2ac3a2">Nov 4 - Nov 6</text>
